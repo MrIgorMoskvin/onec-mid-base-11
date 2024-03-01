@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DefinedType xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8be4e9ae-028d-46ca-9761-2ea27e51a795">
+  <producedTypes>
+    <containerType typeId="9d2ce091-54fb-4e4f-933a-557ce93d42bf" valueTypeId="51313ead-fcf0-4dbc-a583-7258e47a17ba"/>
+  </producedTypes>
+  <name>ДК_Скидка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Скидка</value>
+  </synonym>
+  <type>
+    <types>Number</types>
+    <numberQualifiers>
+      <precision>5</precision>
+      <scale>2</scale>
+      <nonNegative>true</nonNegative>
+    </numberQualifiers>
+  </type>
+</mdclass:DefinedType>
